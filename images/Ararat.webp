@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://preview.colorlib.com/theme/ararat/index.html -->
+<html class="js sizes customelements history pointerevents postmessage webgl websockets cssanimations csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox picture srcset webworkers" lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Ararat</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://preview.colorlib.com/theme/ararat/img/favicon.png">
+
+
+<link rel="stylesheet" href="./Ararat_files/bootstrap.min.css">
+<link rel="stylesheet" href="./Ararat_files/owl.carousel.min.css">
+<link rel="stylesheet" href="./Ararat_files/magnific-popup.css">
+<link rel="stylesheet" href="./Ararat_files/font-awesome.min.css">
+<link rel="stylesheet" href="./Ararat_files/themify-icons.css">
+<link rel="stylesheet" href="./Ararat_files/nice-select.css">
+<link rel="stylesheet" href="./Ararat_files/flaticon.css">
+<link rel="stylesheet" href="./Ararat_files/animate.css">
+<link rel="stylesheet" href="./Ararat_files/slicknav.css">
+<link rel="stylesheet" href="./Ararat_files/style.css">
+
+<script type="text/javascript" async="" src="./Ararat_files/analytics.js.download" nonce="6d195185-dad7-41ff-a3a9-edd23ab70df2"></script><script defer="" referrerpolicy="origin" src="./Ararat_files/s.js.download"></script><script nonce="6d195185-dad7-41ff-a3a9-edd23ab70df2">(function(w,d){!function(bg,bh,bi,bj){bg[bi]=bg[bi]||{};bg[bi].executed=[];bg.zaraz={deferred:[],listeners:[]};bg.zaraz.q=[];bg.zaraz._f=function(bk){return function(){var bl=Array.prototype.slice.call(arguments);bg.zaraz.q.push({m:bk,a:bl})}};for(const bm of["track","set","debug"])bg.zaraz[bm]=bg.zaraz._f(bm);bg.zaraz.init=()=>{var bn=bh.getElementsByTagName(bj)[0],bo=bh.createElement(bj),bp=bh.getElementsByTagName("title")[0];bp&&(bg[bi].t=bh.getElementsByTagName("title")[0].text);bg[bi].x=Math.random();bg[bi].w=bg.screen.width;bg[bi].h=bg.screen.height;bg[bi].j=bg.innerHeight;bg[bi].e=bg.innerWidth;bg[bi].l=bg.location.href;bg[bi].r=bh.referrer;bg[bi].k=bg.screen.colorDepth;bg[bi].n=bh.characterSet;bg[bi].o=(new Date).getTimezoneOffset();if(bg.dataLayer)for(const bt of Object.entries(Object.entries(dataLayer).reduce(((bu,bv)=>({...bu[1],...bv[1]})),{})))zaraz.set(bt[0],bt[1],{scope:"page"});bg[bi].q=[];for(;bg.zaraz.q.length;){const bw=bg.zaraz.q.shift();bg[bi].q.push(bw)}bo.defer=!0;for(const bx of[localStorage,sessionStorage])Object.keys(bx||{}).filter((bz=>bz.startsWith("_zaraz_"))).forEach((by=>{try{bg[bi]["z_"+by.slice(7)]=JSON.parse(bx.getItem(by))}catch{bg[bi]["z_"+by.slice(7)]=bx.getItem(by)}}));bo.referrerPolicy="origin";bo.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(bg[bi])));bn.parentNode.insertBefore(bo,bn)};["complete","interactive"].includes(bh.readyState)?zaraz.init():bg.addEventListener("DOMContentLoaded",zaraz.init)}(w,d,"zarazData","script");})(window,document);</script></head>
+<body>
+<!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+<header>
+<div class="header-area ">
+<div id="sticky-header" class="main-header-area white-bg">
+<div class="container-fluid p-0">
+<div class="row align-items-center justify-content-between no-gutters">
+<div class="col-xl-2 col-lg-2">
+<div class="logo-img">
+<a href="https://preview.colorlib.com/theme/ararat/index.html">
+<img src="./Ararat_files/logo.png" alt="">
+</a>
+</div>
+</div>
+<div class="col-xl-7 col-lg-7">
+<div class="main-menu  d-none d-lg-block">
+<nav>
+<ul id="navigation">
+<li><a class="active" href="https://preview.colorlib.com/theme/ararat/index.html">home</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/about.html">About</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/project.html">Projects</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/service.html">Services</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">blog <i class="ti-angle-down"></i></a>
+<ul class="submenu">
+<li><a href="https://preview.colorlib.com/theme/ararat/blog.html">blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/single-blog.html">single-blog</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">pages <i class="ti-angle-down"></i></a>
+<ul class="submenu">
+<li><a href="https://preview.colorlib.com/theme/ararat/project-details.html">project-details</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/elements.html">elements</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/ararat/contact.html">Contact</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="col-xl-3 col-lg-3 d-none d-lg-block">
+<div class="get_in_tauch">
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn">GET IN TOUCH</a>
+</div>
+</div>
+<div class="col-12">
+<div class="mobile_menu d-block d-lg-none"><div class="slicknav_menu"><a href="https://preview.colorlib.com/theme/ararat/index.html#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed" style="outline: none;"><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" aria-hidden="true" role="menu" style="display: none;">
+<li><a class="active" href="https://preview.colorlib.com/theme/ararat/index.html" role="menuitem" tabindex="-1">home</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/about.html" role="menuitem" tabindex="-1">About</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/project.html" role="menuitem" tabindex="-1">Projects</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/service.html" role="menuitem" tabindex="-1">Services</a></li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/ararat/index.html#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/ararat/index.html#" tabindex="-1">blog <i class="ti-angle-down"></i></a>
+<span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+<li><a href="https://preview.colorlib.com/theme/ararat/blog.html" role="menuitem" tabindex="-1">blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/single-blog.html" role="menuitem" tabindex="-1">single-blog</a></li>
+</ul>
+</li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/ararat/index.html#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/ararat/index.html#" tabindex="-1">pages <i class="ti-angle-down"></i></a>
+<span class="slicknav_arrow">+</span></a><ul class="submenu slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+<li><a href="https://preview.colorlib.com/theme/ararat/project-details.html" role="menuitem" tabindex="-1">project-details</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/elements.html" role="menuitem" tabindex="-1">elements</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/ararat/contact.html" role="menuitem" tabindex="-1">Contact</a></li>
+</ul></div></div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<div class="slider_area">
+<div class="slider_active owl-carousel owl-loaded owl-drag">
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-7612px, 0px, 0px); transition: all 0s ease 0s; width: 13321px;"><div class="owl-item cloned" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1903px;"><div class="single_slider overlay2 d-flex align-items-center justify-content-center slider_bg_1">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="slider_text text-center">
+<h3>We Design your space</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">See Our Projects</a>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div>
+</div>
+
+
+<div class="about_area">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-xl-6 col-md-6">
+<div class="about_thumb">
+<img src="./Ararat_files/1.png" alt="">
+<div class="exprience">
+<h1>25</h1>
+<span>Years of Experience</span>
+</div>
+</div>
+</div>
+<div class="col-xl-5 offset-xl-1 col-md-6">
+<div class="about_info">
+<div class="section_title">
+<span class="sub_heading">About Us</span>
+<h3>Architechtural plan <br>
+design and build</h3>
+<div class="seperator"></div>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
+viverra maecenas accumsan lacus vel facilisis. </p>
+<ul class="about_list">
+<li>Consectetur adipiscing sed do eiusmod. </li>
+<li>Eiusmod tempor incididunt labore. </li>
+</ul>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn">ABOUT US</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="dream_service">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="section_title text-center mb-95">
+<span class="sub_heading">About Us</span>
+<h3>Make your Dream with US</h3>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xl-4 col-md-4">
+<div class="single_dream text-center">
+<div class="thumb">
+<img src="./Ararat_files/1(1).png" alt="">
+</div>
+<h3>Interior</h3>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua quis ipsum suspendisse.</p>
+</div>
+</div>
+<div class="col-xl-4 col-md-4">
+<div class="single_dream text-center">
+<div class="thumb">
+<img src="./Ararat_files/2.png" alt="">
+</div>
+<h3>Exterior</h3>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua quis ipsum suspendisse.</p>
+</div>
+</div>
+<div class="col-xl-4 col-md-4">
+<div class="single_dream text-center">
+<div class="thumb">
+<img src="./Ararat_files/3.png" alt="">
+</div>
+<h3>Bridge</h3>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua quis ipsum suspendisse.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="lastest_project">
+<div class="container">
+<div class="row">
+<div class="col-xl-12">
+<div class="section_title mb-60">
+<span class="sub_heading">Project view</span>
+<h3>Our Latest Projects</h3>
+<div class="seperator"></div>
+</div>
+</div>
+</div>
+<div class="row align-items-center mb-80">
+<div class="col-xl-6 col-md-6">
+<div class="single_project_thumb">
+<img src="./Ararat_files/1(2).png" alt="">
+</div>
+</div>
+<div class="col-xl-5 offset-xl-1 col-md-6">
+<div class="section_title">
+<span class="sub_heading2">Dubai, UAE</span>
+<h4>Abahoni Building</h4>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua
+quis ipsum suspendisse.</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn">View More</a>
+</div>
+</div>
+</div>
+<div class="row align-items-center mb-80">
+<div class="col-xl-6 col-md-6">
+<div class="section_title">
+<span class="sub_heading2">Dhaka, Bangladesh</span>
+<h4>MR Kholifa Tower</h4>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua
+quis ipsum suspendisse.</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn">View More</a>
+</div>
+</div>
+<div class="col-xl-5 offset-xl-1 col-md-6">
+<div class="single_project_thumb">
+<img src="./Ararat_files/2(1).png" alt="">
+ </div>
+</div>
+</div>
+<div class="row align-items-center mb-80">
+<div class="col-xl-6 col-md-6">
+<div class="single_project_thumb">
+<img src="./Ararat_files/3(1).png" alt="">
+</div>
+</div>
+<div class="col-xl-5 offset-xl-1 col-md-6">
+<div class="section_title">
+<span class="sub_heading2">Dubai, UAE</span>
+<h4>Galoni Plan &amp; Design</h4>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua
+quis ipsum suspendisse.</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn">View More</a>
+</div>
+</div>
+</div>
+<div class="row align-items-center mb-80">
+<div class="col-xl-6 col-md-6">
+<div class="section_title">
+<span class="sub_heading2">Dhaka, Bangladesh</span>
+<h4>Hiclick Mirror design</h4>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua
+quis ipsum suspendisse.</p>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn">View More</a>
+</div>
+</div>
+<div class="col-xl-5 offset-xl-1 col-md-6">
+<div class="single_project_thumb">
+<img src="./Ararat_files/4.png" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="testmonial_area testimonial_bg overlay2">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xl-12">
+<div class="testmonial_active owl-carousel owl-loaded owl-drag">
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-6292px, 0px, 0px); transition: all 0s ease 0s; width: 11011px;"><div class="owl-item cloned" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+ </div>
+</div></div><div class="owl-item cloned" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+ </div>
+</div></div><div class="owl-item active" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1573px;"><div class="single_testmonial">
+<div class="testmonial_info text-center">
+<div class="author">
+<img src="./Ararat_files/author.png" alt="">
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor
+incididunt ut
+<br> labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.
+Risus
+commodo
+viverra <br> maecenas accumsan lacus vel facilisis. </p>
+<div class="author_name">
+<h4>-MITHILA</h4>
+<span> Designer at Colorlib</span>
+</div>
+ </div>
+</div></div></div></div><div class="owl-nav"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="messege_area">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-xl-6 col-md-6">
+<div class="messege_thumb">
+<img src="./Ararat_files/mesege.png" alt="">
+</div>
+</div>
+<div class="col-xl-5 offset-xl-1 col-md-6">
+<div class="section_title mb-20">
+<span class="sub_heading">Contact Us</span>
+<h3>Send your message</h3>
+<div class="seperator"></div>
+</div>
+<form action="https://preview.colorlib.com/theme/ararat/index.html#" class="messege">
+<input type="email" placeholder="Your Email" fdprocessedid="uydpe">
+<input type="text" placeholder="Subject" fdprocessedid="p39wwn">
+<textarea placeholder="Messege"></textarea>
+<button class="boxed-btn" fdprocessedid="n56i2l">SEND US</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+
+<footer class="footer footer_bg">
+<div class="footer_top">
+<div class="container-fluid p-0">
+<div class="row no-gutters ">
+<div class="col-xl-3 col-12 col-md-4">
+<div class="footer_widget">
+<div class="footer_logo">
+<a href="https://preview.colorlib.com/theme/ararat/index.html">
+<img src="./Ararat_files/footer-logo.png" alt="">
+</a>
+</div>
+<ul class="social_links">
+<li>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://preview.colorlib.com/theme/ararat/index.html#"><i class="fa fa-instagram"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xl-9 col-12 col-md-8">
+<div class="footer_header d-flex justify-content-between">
+<div class="footer_header_left">
+<h3>Do youn have any project or Query ?</h3>
+<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt. </p>
+</div>
+<div class="footer_btn">
+<a href="https://preview.colorlib.com/theme/ararat/index.html#" class="boxed-btn2">Contact Us</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xl-8 col-12 col-md-12">
+<div class="row">
+<div class="col-xl-4 col-12 col-md-4">
+<div class="footer_widget">
+<h3 class="footer_heading">
+Navigation
+</h3>
+<ul class="quick_links">
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">Home</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#"> About</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#"> Project</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">Services</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">Blog</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xl-4 col-12 col-md-4">
+<div class="footer_widget">
+<h3 class="footer_heading">
+Services
+</h3>
+<ul class="quick_links">
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">Interior</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#"> Exterior</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#"> Bridge</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xl-4 col-12 col-md-4 ">
+<div class="footer_widget">
+<h3 class="footer_heading">
+Speak Now
+</h3>
+<ul class="quick_links">
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#">+10 267 3567 267</a></li>
+<li><a href="https://preview.colorlib.com/theme/ararat/index.html#"> contact@ararat.com</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer_copy_right">
+<p>
+Copyright ©<script>document.write(new Date().getFullYear());</script>2023 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+</p>
+</div>
+</footer>
+
+
+<script src="./Ararat_files/modernizr-3.5.0.min.js.download"></script>
+<script src="./Ararat_files/jquery-1.12.4.min.js.download"></script>
+<script src="./Ararat_files/popper.min.js.download"></script>
+<script src="./Ararat_files/bootstrap.min.js.download"></script>
+<script src="./Ararat_files/owl.carousel.min.js.download"></script>
+<script src="./Ararat_files/isotope.pkgd.min.js.download"></script>
+<script src="./Ararat_files/ajax-form.js.download"></script>
+<script src="./Ararat_files/waypoints.min.js.download"></script>
+<script src="./Ararat_files/jquery.counterup.min.js.download"></script>
+<script src="./Ararat_files/imagesloaded.pkgd.min.js.download"></script>
+<script src="./Ararat_files/scrollIt.js.download"></script>
+<script src="./Ararat_files/jquery.scrollUp.min.js.download"></script>
+<script src="./Ararat_files/wow.min.js.download"></script>
+<script src="./Ararat_files/nice-select.min.js.download"></script>
+<script src="./Ararat_files/jquery.slicknav.min.js.download"></script>
+<script src="./Ararat_files/jquery.magnific-popup.min.js.download"></script>
+<script src="./Ararat_files/plugins.js.download"></script>
+
+<script src="./Ararat_files/contact.js.download"></script>
+<script src="./Ararat_files/jquery.ajaxchimp.min.js.download"></script>
+<script src="./Ararat_files/jquery.form.js.download"></script>
+<script src="./Ararat_files/jquery.validate.min.js.download"></script>
+<script src="./Ararat_files/mail-script.js.download"></script>
+<script src="./Ararat_files/main.js.download"></script>
+
+<script async="" src="./Ararat_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+<script defer="" src="./Ararat_files/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon="{&quot;rayId&quot;:&quot;7e531dbe69520e50&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;,&quot;version&quot;:&quot;2023.4.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+<a id="scrollUp" href="https://preview.colorlib.com/theme/ararat/index.html#top" style="display: none; position: fixed; z-index: 2147483647;"><i class="fa fa-angle-double-up"></i></a></body></html>
