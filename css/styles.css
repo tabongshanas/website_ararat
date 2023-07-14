@@ -1,53 +1,74 @@
 html {
     height: 100%;
 }
+
 body {
-    margin: 0px;
+     margin: 0px;
     height: 100%;
-    /* background-image: url('/images/landing_bg.jpg'); */
+    background-image: url('/images/landing_bg.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
 header {
     height: 10%;
     padding-left: 8%;
     padding-top: 30px;
     background-color: white;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0px;
+}
+
+
 .landing-page {
     height: 100%;
 }
+
 .content {
     height: 89%;
 }
+
 .logo-container {
     display: inline-block;
-    width:15%;
+    width: 15%;
 }
+
 .logo-container:hover {
     cursor: pointer;
 }
+
 .menu-container {
     display: inline-block;
     width: 60%;
     bottom: 20px;
     position: relative;
 }
+
 .button-container {
     display: inline-block;
     width: 20%;
     bottom: 20px;
     position: relative;
 }
+
 .menu-item {
     display: inline-block;
     margin-right: 3%;
     text-decoration: none;
     color: #131313;
 }
+
 .menu-item:hover {
     color: #b8acac;
 }
+
 .btn-primary {
     display: inline-block;
     border: 1px solid black;
@@ -55,26 +76,32 @@ header {
     padding-left: 30px;
     padding-right: 30px;
     letter-spacing: 3px;
+    transition: 0.3s;
 }
+
 .btn-primary:hover {
     background-color: #000000;
     color: white;
     cursor: pointer;
 }
+
 .content {
     text-align: center;
     padding-top: 250px;
     color: white;
 }
+
 .content1 {
     font-size: 60px;
     letter-spacing: 15px;
     margin-bottom: 2px;
 }
+
 .content2 {
     font-size: 20px;
     margin-bottom: 40px;
 }
+
 .btn-secondary {
     font-size: 15px;
     letter-spacing: 2px;
@@ -85,31 +112,59 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border: 1px solid white;
     display: inline-block;
+    transition: 0.3s;
 }
+
 .btn-secondary:hover {
     background-color: white;
     cursor: pointer;
     color: black;
 }
+
+.heading-text-sm {
+    display: inline-block;
+    color: rgb(182, 178, 178);
+    margin-bottom: 20px;
+}
+
+.heading-text-lg {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 58px;
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+.common-text {
+    color: #808080;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+.li-circle {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(9, 189, 9);
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+}
+.li-text {
+    display: inline-block;
+    color: #808080;
+    font-size: 18px;
+}
+
 .arch-plan {
-    border: 1px solid red;
     height: 100%;
     padding-top: 7%;
 }
+
 .arch-plan-img-container {
-    border: 1px solid orange;
     display: inline-block;
     width: 50%;
     height: 75%;
     text-align: right;
 }
-.arch-plan-text-container {
-    display: inline-block;
-    vertical-align: top;
-    margin-left: 7%;
-    margin-top: 3%;
-    color: rgb(129, 127, 127);
-}
+
 .arch-plan-design {
     display: inline-block;
     vertical-align: top;
@@ -119,44 +174,117 @@ header {
     font-size: 40px;
     margin-top: 70px;
 }
-.arch-plan-design-text {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    line-height: 58px;
-    font-size: 46px;
-}
-.dash-line {
-    display: inline-block;
-    border: 2px solid black;
-    margin-left: 57%;
-    
-}
 
 .arch-plan-img {
-    border: 1px solid green;
     width: 50%;
     height: 100%;
     background-image: url('/images/arch_plan.webp');
     display: inline-block;
 }
+
 .background-text {
-    border: 1px solid blue;
     width: 50%;
     height: 30%;
     margin-top: 50%;
     margin-left: 25%;
     background-color: white;
 }
+
 .background-number {
     display: inline-block;
-    border: 2px solid black;
     margin-right: 30%;
     margin-top: 20%;
     font-size: 80px;
     font-family: sans-serif;
 }
+
 .background-main-text {
-    border: 1px solid hotpink;
     text-align: center;
     color: rgb(129, 127, 127);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.dash-line {
+    border: 1px solid rgb(90, 89, 89);
+    width: 15%;
+}
+
+
+
+
+.arch-plan-desc-container {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    min-width: 300px;
+    margin-top: 50px;
+    margin-left: 80px;
+} */
+
+
+.circle-container {
+    height: 860px;
+    margin-top: -3%;
+    margin-left: -10%;
+    margin-bottom: 1000px;
+}
+.heading-text-sm {
+    display: inline-block;
+    margin-left: 52%;
+    margin-top: 9%;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+.making-dreams {
+    width: 50%;
+    text-align: center;
+    margin-left: 30%;
+    margin-bottom: 100px;
+}
+
+
+.image1 {
+    display: inline-block;
+    width: 20%;
+    margin-left: 25%;
+}
+.main-pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 7%;
+}
+.images-text {
+    padding-left: 110px;
+    width: 53%;
+    margin-top: 30px;
+}
+.images-text-ed {
+    margin-left: -43%;
+    color: #808080;
+    line-height: 28px;
+    font-weight: 400px;
+}
+.images-text-header {
+    font-size: 28px;
+    color: black;
+    font-weight: 500px;
+}
+
+
+.image2 {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    height: 436px;
+    margin-left: 1%;
+}
+
+
+.image3 {
+    display: inline-block;
+    width: 22%;
+    vertical-align: top;
+    height: 436px;
+    margin-left: 1%;
 }
